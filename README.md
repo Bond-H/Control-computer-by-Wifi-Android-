@@ -6,7 +6,8 @@
 
 ## 项目由两部分组成，Windows服务器和Android客户端
 ### Android客户端
-用于发送遥控消息
+用于发送遥控消息，界面如下图所示
+![](https://github.com/Bond-SYSU/Control-computer-by-Wifi-Android-/blob/master/Android.png)
 
 ### Windows服务器
 时刻监听等待Android端发送的消息，并作出响应，响应函数通过调用模拟按下快捷键实现
